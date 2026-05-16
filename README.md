@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: Octocat's homepage
+title: Welcome to Masahugger's World
 description: Bookmark this to keep an eye on my project updates!
+
